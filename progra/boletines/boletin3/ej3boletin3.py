@@ -1,11 +1,8 @@
-num1 = int(input("digite numero:"))
-num2 = int(input("digite numero:"))
-num3 = int(input("digite numero:"))
-
-if num1 > num2 and num1 > num3:
-    print(num1, "es el numero mas grande")
-elif num2 > num3:
-    print(num2, "es el numero mas grande")
+num1 = int(input("Ingresa un numero: "))
+#si el numero es positivo muestra +, si es negativo muestra - y si es 0 muestra 0
+if num1 > 0:
+    print("+")
+if num1 == 0:
+    print("0")
 else:
-    print(num3, "es el numero mas grande")
-
+    print("-")
