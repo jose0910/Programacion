@@ -1,9 +1,9 @@
 
-# Hola Mundo
-## Holaaaaa
-### aaaa
+
 
 # Influencia de las IAs en el Aprendizaje Humano 🤖📚  
+![descarga.jpeg](descarga.jpeg)
+
 ![IA](https://img.shields.io/badge/IA-Aprendizaje-blueviolet)  
 
 ## 📖 Descripción  
