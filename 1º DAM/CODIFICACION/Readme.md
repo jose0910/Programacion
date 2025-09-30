@@ -12,10 +12,10 @@
 > *“La IA no reemplazará a los maestros, pero los que la usen reemplazarán a los que no lo hagan.”*  
 
 ## :earth_africa: Impacto  
-
-- :white_check_mark: Personalización  
-- :white_check_mark: Accesibilidad  
-- ~~:warning: Dependencia tecnológica~~ 
+| --- | --- |
+- |:white_check_mark | Personalización           |
+- |:white_check_mark | Accesibilidad             |
+- |~~:warning        | Dependencia tecnológica~~ | 
 
 [IA mas usada](https://chatgpt.com)
 
