@@ -2,9 +2,10 @@
 
 
 # <ins>Influencia de las IAs en el Aprendizaje Humano :robot: :books:<ins>
+
 ![descarga.jpeg](descarga.jpeg)
 
-![IA](https://img.shields.io/badge/IA-Aprendizaje-blueviolet)  
+
 
 ## :book: Descripción  
 ***Beneficios, riesgos y casos de uso de la IA***
