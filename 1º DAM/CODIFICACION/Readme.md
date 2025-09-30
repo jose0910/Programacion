@@ -1,7 +1,7 @@
 
 
 
-# <ins>Influencia de las IAs en el Aprendizaje Humano 🤖📚<ins>
+# <ins>Influencia de las IAs en el Aprendizaje Humano :robot: :books:<ins>
 ![descarga.jpeg](descarga.jpeg)
 
 ![IA](https://img.shields.io/badge/IA-Aprendizaje-blueviolet)  
@@ -16,4 +16,5 @@ Beneficios, riesgos y casos de uso de la IA
 - :white_check_mark: Accesibilidad  
 - :warning: Dependencia tecnológica  
 
-[IA mas usada](https://https://chatgpt.com/?utm_s)
+[IA mas usada](https://chatgpt.com)
+a
