@@ -18,3 +18,5 @@
 - ~~:warning: Dependencia tecnológica~~ 
 
 [IA mas usada](https://chatgpt.com)
+
+[funcions.py](funcions.py)
