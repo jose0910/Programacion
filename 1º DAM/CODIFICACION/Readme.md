@@ -14,9 +14,9 @@
 ## :earth_africa: Impacto  
   |    Emogi         | beneficio/riesgos         |
 | --- | --- |
-- |:white_check_mark | Personalización           |
-- |:white_check_mark | Accesibilidad             |
-- |~~:warning        | Dependencia tecnológica~~ | 
+|:white_check_mark | Personalización           |
+|:white_check_mark | Accesibilidad             |
+|:warning        | ~~Dependencia tecnológica~~ | 
 
 [IA mas usada](https://chatgpt.com)
 
