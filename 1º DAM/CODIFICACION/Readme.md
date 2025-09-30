@@ -7,11 +7,13 @@
 ![IA](https://img.shields.io/badge/IA-Aprendizaje-blueviolet)  
 
 ## 📖 Descripción  
-Este repo analiza cómo la IA transforma el aprendizaje humano: beneficios, riesgos y casos de uso.  
+Beneficios, riesgos y casos de uso de la IA
 > *“La IA no reemplazará a los maestros, pero los que la usen reemplazarán a los que no lo hagan.”*  
 
-## 🌍 Impacto  
+## :earth_africa: Impacto  
+
 - ✅ Personalización  
 - ✅ Accesibilidad  
 - ⚠️ Dependencia tecnológica  
 
+[IA mas usada](https://https://chatgpt.com/?utm_s)
