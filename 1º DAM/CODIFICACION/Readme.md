@@ -1,7 +1,7 @@
 
 
 
-# Influencia de las IAs en el Aprendizaje Humano 🤖📚  
+# <ins>Influencia de las IAs en el Aprendizaje Humano 🤖📚<ins>
 ![descarga.jpeg](descarga.jpeg)
 
 ![IA](https://img.shields.io/badge/IA-Aprendizaje-blueviolet)  
