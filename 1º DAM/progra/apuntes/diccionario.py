@@ -15,3 +15,5 @@ for color in colores.values():
 
 for clave in colores.keys():
     print(clave[clave])
+
+
